@@ -133,7 +133,7 @@ export const AuthProvider = ({ children }) => {
     localStorage.removeItem('user');
     delete api.defaults.headers.common['Authorization'];
     setUser(null);
-    window.location.href = '/login';
+    // navigate Navbar mein handle ho raha hai, yahan window.location use nahi karna
   };
 
   const value = {
