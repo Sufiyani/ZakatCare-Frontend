@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#047857"/>
+  
+  <!-- Crescent moon -->
+  <path d="M32 12 C20 12 12 21 12 32 C12 43 20 52 32 52 C38 52 43 49 46 44 C41 45 36 43 33 39 C28 33 28 23 33 17 C35 14 38 12 42 12 C39 11 35 10 32 12Z" fill="#ffffff"/>
+  
+  <!-- Star (5-pointed) -->
+  <polygon points="46,14 47.5,19 52.5,19 48.5,22 50,27 46,24 42,27 43.5,22 39.5,19 44.5,19" fill="#fbbf24"/>
+</svg>
